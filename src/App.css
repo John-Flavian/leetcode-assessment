@@ -1,7 +1,6 @@
 main {
   text-align: center;
   vertical-align: center;
-  line-height: 100vh
 }
 
 input {
@@ -12,5 +11,4 @@ margin-bottom: 1rem;
 .label {
   padding: 10px;
   height: 10px;
-  display: inline;
 }
