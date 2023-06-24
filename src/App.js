@@ -51,7 +51,6 @@ export default function App() {
           <input
             type="tel"
             id="phone"
-            data-testid="phone-input"
             maxLength="16"
             ref={inputRef}
             placeholder="mobile number"
